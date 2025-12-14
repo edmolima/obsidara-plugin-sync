@@ -68,7 +68,7 @@ importers:
         version: 27.2.0
       obsidian:
         specifier: latest
-        version: 1.10.3(@codemirror/state@6.5.0)(@codemirror/view@6.38.1)
+        version: 1.11.0(@codemirror/state@6.5.0)(@codemirror/view@6.38.1)
       postcss:
         specifier: ^8.5.6
         version: 8.5.6
@@ -1138,8 +1138,8 @@ packages:
   nth-check@2.1.1:
     resolution: {integrity: sha512-lqjrjmaOoAnWfMmBPL+XNnynZh2+swxiX3WUE0s4yEHI6m+AwrK2UZOimIRl3X/4QctVqS8AiZjFqyOGrMXb/w==}
 
-  obsidian@1.10.3:
-    resolution: {integrity: sha512-VP+ZSxNMG7y6Z+sU9WqLvJAskCfkFrTz2kFHWmmzis+C+4+ELjk/sazwcTHrHXNZlgCeo8YOlM6SOrAFCynNew==}
+  obsidian@1.11.0:
+    resolution: {integrity: sha512-lVqN9AmDWHzhNATi2tDnjqVgI6WUYKeT+lIsAycAyLt4XCC6zRsWzb+tFCiB7Rn3PpttefjoovilhYwvS4Iqxw==}
     peerDependencies:
       '@codemirror/state': 6.5.0
       '@codemirror/view': 6.38.6
@@ -2761,7 +2761,7 @@ snapshots:
     dependencies:
       boolbase: 1.0.0
 
-  obsidian@1.10.3(@codemirror/state@6.5.0)(@codemirror/view@6.38.1):
+  obsidian@1.11.0(@codemirror/state@6.5.0)(@codemirror/view@6.38.1):
     dependencies:
       '@codemirror/state': 6.5.0
       '@codemirror/view': 6.38.1
